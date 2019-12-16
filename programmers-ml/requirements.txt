@@ -1,0 +1,10 @@
+matplotlib
+Cython
+numpy
+scikit-learn
+fastFM
+jupyter
+notebook
+pandas
+statsmodels
+tensorflow==1.15.0
